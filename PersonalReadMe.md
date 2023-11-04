@@ -9,7 +9,7 @@ Hello👋,
 <br>
 <br>🌱 I’m currently learning a lot of new things since i have no prior knowledge in computer science. 
 <br>A lot of basic things wil have to get stuck in my BrainDrive this year.
-<br>  - Algorithms 🤯😵‍💫🥴 in Python  
+<br>  - Algorithms 🤯😵‍💫🥴 in Python
 <br>  - Web essentials with HTML5 & CSS
 <br>  - Essentials in networking
 <br>  - Data essentials & Data advanced with SQL
